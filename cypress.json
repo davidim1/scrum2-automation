@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://cypress.vivifyscrum-stage.com",
+    "env": {
+        "EXTERNAL_EMAIL": "gugagaga@gmail.com",
+        "EXTERNAL_PASSWORD": "gugagaga1"
+    }
+}
+
